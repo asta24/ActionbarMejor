@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ActionbarMejor</string>
+    <string name="item1">Opción 1</string>
+    <string name="item2">Opción 2</string>
+    <string name="buscar">Buscar</string>
+    <string name="compartir">Compartir</string>
+</resources>
